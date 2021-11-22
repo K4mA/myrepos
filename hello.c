@@ -3,6 +3,6 @@
 /* hfjhsdkjfsd */
 
 void main(int argc, char *argv[]) {
-  printf("Hi, World!\n");
+  printf("Hi, merge World!\n");
   printf("Du hast %d Parameter angegeben.\n", argc-1);
 }
